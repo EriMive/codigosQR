@@ -20,12 +20,6 @@ Diseño amigable, limpio y adaptable a dispositivos móviles.
 
 ---
 
-## 📸 Capturas
-
-> Agrega aquí algunas imágenes o GIFs de la app en acción
-
----
-
 ## 🛠️ Tecnologías usadas
 
 - ⚛️ React
