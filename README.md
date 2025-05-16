@@ -1,13 +1,34 @@
-# React + Vite
+# 🚀 Generador de Códigos QR en React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+¡Bienvenido al Generador de Códigos QR! 🔳 Una aplicación web construida con **React** que te permite crear códigos QR de forma **rápida**, **intuitiva** y **en lote o individualmente**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Características principales
 
-## Expanding the ESLint configuration
+✅ **Generación Individual**  
+Introduce un texto y obtén instantáneamente tu código QR.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# codigosQR
+📦 **Generación por Lotes**  
+Sube una lista de textos (CSV o TXT) y obtén múltiples códigos QR de una sola vez.
+
+🖼️ **Descarga**  
+Guarda tus códigos QR en formato PNG desde la interfaz.
+
+⚡ **Interfaz moderna**  
+Diseño amigable, limpio y adaptable a dispositivos móviles.
+
+---
+
+## 📸 Capturas
+
+> Agrega aquí algunas imágenes o GIFs de la app en acción
+
+---
+
+## 🛠️ Tecnologías usadas
+
+- ⚛️ React
+- 🧪 Vite 
+- 📦 qrcode.react 
+
